@@ -1,6 +1,6 @@
 # 📊 Dataset: Ulasan Aplikasi DANA
 
-Dataset ini berisi kumpulan ulasan pengguna aplikasi DANA yang telah dibersihkan dan siap digunakan untuk analisis sentimen, eksplorasi perilaku pengguna, serta pengambilan keputusan berbasis data.
+Dataset ini berisi kumpulan ulasan pengguna aplikasi DANA yang telah dibersihkan dan siap digunakan untuk analisis sentimen, eksplorasi perilaku pengguna, serta pengambilan keputusan berbasis data. Data diambil dengan rentang waktu 12/31/2023 - 1/22/2026.
 
 🔗 Dataset dapat diakses di:  
 https://www.kaggle.com/datasets/puteriameliaazli/review-aplikasi-dana
