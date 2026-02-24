@@ -2,7 +2,7 @@
 
 Dataset ini berisi kumpulan ulasan pengguna aplikasi DANA yang telah dibersihkan dan siap digunakan untuk analisis sentimen, eksplorasi perilaku pengguna, serta pengambilan keputusan berbasis data.
 
-🔗 Sumber dataset:  
+🔗 Dataset dapat diakses di:  
 https://www.kaggle.com/datasets/puteriameliaazli/review-aplikasi-dana
 
 ---
