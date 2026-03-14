@@ -33,8 +33,6 @@ Hasil evaluasi pada test set:
 | Netral | 0.571 | 0.570 | 0.571 |
 | Positif | 0.730 | 0.871 | 0.795 |
 
-
-
 ### Confusion Matrix
 
 ---
