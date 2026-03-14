@@ -21,22 +21,23 @@ Hasil evaluasi pada test set:
 
 | Metric | Score |
 |--------|--------|
-| Accuracy | 0.694 |
-| Macro F1 | 0.691 |
-| Cohen’s Kappa | 0.541 |
+| Accuracy | 0.693 |
+| Macro F1 | 0.690 |
+| Cohen’s Kappa | 0.539 |
 
 ### Classification Report
 
 | Class | Precision | Recall | F1 |
 |--------|-----------|--------|--------|
-| Negatif | 0.779 | 0.642 | 0.704 |
-| Netral | 0.579 | 0.571 | 0.575 |
-| Positif | 0.731 | 0.870 | 0.794 |
+| Negatif | 0.786 | 0.636 | 0.703 |
+| Netral | 0.571 | 0.570 | 0.571 |
+| Positif | 0.730 | 0.871 | 0.795 |
 
----
+
 
 ### Confusion Matrix
 
+---
 
 ## 🔎 Performance Interpretation
 
