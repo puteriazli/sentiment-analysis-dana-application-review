@@ -18,7 +18,7 @@ Tujuan utama bukan hanya klasifikasi, tetapi menghasilkan sinyal terstruktur unt
 ## 📊 Model Performance
 
 Hasil evaluasi pada test set:
-
+pictures/matrix evaluation.png
 | Metric | Score |
 |--------|--------|
 | Accuracy | 0.693 |
@@ -26,7 +26,7 @@ Hasil evaluasi pada test set:
 | Cohen’s Kappa | 0.539 |
 
 ### Classification Report
-
+pictures/classification report.png
 | Class | Precision | Recall | F1 |
 |--------|-----------|--------|--------|
 | Negatif | 0.786 | 0.636 | 0.703 |
@@ -34,6 +34,7 @@ Hasil evaluasi pada test set:
 | Positif | 0.730 | 0.871 | 0.795 |
 
 ### Confusion Matrix
+pictures/confusion matrix.png
 
 ---
 
