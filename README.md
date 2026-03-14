@@ -18,7 +18,8 @@ Tujuan utama bukan hanya klasifikasi, tetapi menghasilkan sinyal terstruktur unt
 ## 📊 Model Performance
 
 Hasil evaluasi pada test set:
-pictures/matrix evaluation.png
+[pictures/matrix evaluation.png](https://github.com/puteriazli/sentiment-analysis-dana-application-review/blob/d74f95c10d830246080911cc63f4c3850dd02cb0/pictures/matrix%20evaluation.png)
+
 | Metric | Score |
 |--------|--------|
 | Accuracy | 0.693 |
