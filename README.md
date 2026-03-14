@@ -42,17 +42,18 @@ Hasil evaluasi pada test set:
 ## 🔎 Performance Interpretation
 
 ### 🔴 Negatif
-- Precision tinggi (0.779) → prediksi negatif cukup akurat
-- Recall moderat (0.642) → masih ada keluhan yang tidak terdeteksi
+- Precision tinggi (0.786) → prediksi negatif cukup akurat
+- Recall moderat (0.636) → masih ada keluhan yang tidak terdeteksi
 
 ### 🟡 Netral
-- F1 paling rendah (0.575)
+- F1 paling rendah (0.571)
 - Kelas paling sulit dipelajari karena:
   - Jumlah data lebih sedikit
   - Batasan antara netral dan positif sering ambigu
+  - Banyak data noisy
 
 ### 🟢 Positif
-- Recall tinggi (0.870)
+- Recall tinggi (0.871)
 - Model cenderung lebih mudah mengenali ulasan positif
 
 ---
